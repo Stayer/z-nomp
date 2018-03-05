@@ -27,6 +27,8 @@ https://btcp.ragnarpool.ovh/stats
 
 https://btcp.coinblockers.com/
 
+https://eqpool.cash/
+
 Usage
 =====
 
